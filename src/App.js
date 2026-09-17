@@ -393,15 +393,15 @@ function App() {
           </p>
 
           <div className="flex gap-6">
-            <a href="#" className="hover:text-cyan-400">
+            <a href="www.linkedin.com/in/anubhav-gangele-10951a31a" className="hover:text-cyan-400">
               LinkedIn
             </a>
 
-            <a href="#" className="hover:text-cyan-400">
+            <a href="https://github.com/anubahvgangele" className="hover:text-cyan-400">
               GitHub
             </a>
 
-            <a href="#" className="hover:text-cyan-400">
+            <a href="https://www.instagram.com/" className="hover:text-cyan-400">
               Instagram
             </a>
           </div>
